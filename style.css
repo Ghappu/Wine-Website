@@ -1,0 +1,48 @@
+@font-face {
+    src: url("Josefin_Sans/static/JosefinSans-Bold.ttf");
+    font-family: rawat;
+}
+
+body {
+    font-family: rawat;
+}
+
+#about-bann-1 {
+    position: relative;
+    z-index: 5;
+}
+
+#about-bann-1-i {
+    position: relative;
+    z-index: 5;
+}
+
+#about-bann-2 {
+    position: relative;
+    margin-top: -100px;
+}
+
+#about-bann-2-i{
+    position: relative;
+    margin-top: -50px;
+}
+
+#about-bann-3 {
+    position: relative;
+    z-index: 5;
+    margin-top: -90px;
+}
+
+#about-bann-3-i{
+    position: relative;
+    z-index: 5;
+    margin-top: -40px;
+}
+
+#about-h1 {
+    padding-top: 150px;
+}
+
+#about-h1-i {
+    padding-top: 60px;
+}
